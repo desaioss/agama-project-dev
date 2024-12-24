@@ -14,7 +14,6 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "co.acme.password": {},
             "co.acme.password1": {}
         },
         "name": "agama-project"
