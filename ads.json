@@ -13,9 +13,7 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "agama.pro": {}
-        },
+        "configs": {},
         "name": "agama-project"
     }
 }
