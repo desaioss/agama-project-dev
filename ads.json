@@ -1,1 +1,18 @@
-{}
+{
+    "agama-project": {
+        "projectName": "agama-project",
+        "description": "Agama project",
+        "type": "community",
+        "author": "desaioss",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/desaioss/agama-project-dev",
+        "githubUri": "https://github.com/desaioss/agama-project-dev",
+        "license": "apache-2.0",
+        "lastUpdated": "1735022436200",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
